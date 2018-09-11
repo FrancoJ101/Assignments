@@ -1,0 +1,63 @@
+/* Group 7 CSS document */
+
+body{
+	background-image: url("https://www.transparenttextures.com/patterns/cardboard.png")
+	
+}
+p {
+	text-align: left;
+}
+h1{
+	text-align: center;
+	font-family: "Arial", Sans-seif;
+}
+h2{
+	font-family: "Calibri";
+} 
+
+h4 img {
+	border-radius: 15%;
+}
+h5{
+	font-size: 18pt;
+	text-align:center;
+}
+table, th, td{
+	background:white;
+	color:black;
+	border-style: dotted;
+}
+a:link, a:visited, a:active{
+	color:black;
+}
+
+.caution{
+	font-size:200%;
+	color:Red
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 175px;
+	background-color: white;
+	border-style: groove;
+	border-color: black;
+}
+li a{
+	display:block;
+	color: red;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: black;
+	color: white;
+}
+li{
+	font-size:16pt;
+	/* border:solid;
+	border-width:thin; */
+}
+
